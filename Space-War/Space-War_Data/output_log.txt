@@ -1,0 +1,38 @@
+Initialize engine version: 5.0.0f4 (5b98b70ebeb9)
+GfxDevice: creating device client; threaded=0
+d3d11: failed to create D3D11 device (0x887a0004)
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 9.0c [nvd3dum.dll 9.18.13.908]
+    Renderer: NVIDIA GeForce 6100 nForce 405
+    Vendor:   NVIDIA
+    VRAM:     824 MB (via DXGI)
+    Caps:     Shader=30 DepthRT=1 NativeDepth=0 NativeShadow=1 DF16=0 INTZ=0 NULL=1 RESZ=0 SlowINTZ=0
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Ilyass\AppData\Local\Temp\Rar$EXa2604.20073\Space-War\Space-War_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Ilyass\AppData\Local\Temp\Rar$EXa2604.20073\Space-War\Space-War_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Ilyass\AppData\Local\Temp\Rar$EXa2604.20073\Space-War\Space-War_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading C:\Users\Ilyass\AppData\Local\Temp\Rar$EXa2604.20073\Space-War\Space-War_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: C:\Users\Ilyass\AppData\Local\Temp\Rar$EXa2604.20073\Space-War\Space-War_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Ilyass\AppData\Local\Temp\Rar$EXa2604.20073\Space-War\Space-War_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+- Completed reload, in  0.120 seconds
+desktop: 1360x768 60Hz; virtual: 1360x768 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+Platform assembly: C:\Users\Ilyass\AppData\Local\Temp\Rar$EXa2604.20073\Space-War\Space-War_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Ilyass\AppData\Local\Temp\Rar$EXa2604.20073\Space-War\Space-War_Data\Managed\System.dll (this message is harmless)
+Platform assembly: C:\Users\Ilyass\AppData\Local\Temp\Rar$EXa2604.20073\Space-War\Space-War_Data\Managed\Boo.Lang.dll (this message is harmless)
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 5.166800 ms
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 223.
+Total: 1.019680 ms (FindLiveObjects: 0.052680 ms CreateObjectMapping: 0.032040 ms MarkObjects: 0.312960 ms  DeleteObjects: 0.614560 ms)
+
+Platform assembly: C:\Users\Ilyass\AppData\Local\Temp\Rar$EXa2604.20073\Space-War\Space-War_Data\Managed\UnityScript.Lang.dll (this message is harmless)
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 5.454720 ms
+
+Unloading 29 unused Assets to reduce memory usage. Loaded Objects now: 207.
+Total: 0.678080 ms (FindLiveObjects: 0.046280 ms CreateObjectMapping: 0.022720 ms MarkObjects: 0.350840 ms  DeleteObjects: 0.250920 ms)
+
